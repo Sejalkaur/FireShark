@@ -1,5 +1,3 @@
-Here’s the corrected and well-formatted version of your README file:
-
 ---
 
 # **Fireshark - Threat Intelligence and Network Analytics Tool**
