@@ -8,7 +8,7 @@ Welcome to the **Fireshark - Threat Intelligence and Network Analytics Tool**! T
 
 ## **Links**
 
-- **Live Project**: [Fireshark Application](https://fireshark.streamlit.app/)  
+- **Live Project**: [Fireshark Application](https://fire-shark.streamlit.app/)  
 - **GitHub Repository**: [Fireshark GitHub Repo](https://github.com/rajanraj2/Fireshark)  
 - **Project Presentation (PPT)**: [Fireshark PPT](https://docs.google.com/presentation/d/1XqNPMmmCMEEU4sOmX2ca118Lrdi6imIE/edit?usp=sharing&ouid=113270247741456179399&rtpof=true&sd=true)  
 - **Project Report**: [Fireshark Report](https://docs.google.com/document/d/1wecWBNsmZ7w-X9cz_3R7sdVBsLRHXBZ_/edit?usp=sharing&ouid=113270247741456179399&rtpof=true&sd=true)  
